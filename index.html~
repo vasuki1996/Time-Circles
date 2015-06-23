@@ -8,7 +8,7 @@
     </head>
     <body>
         <div class="container">
-            <center><font face="MathJax_Typewriter"><h1>Time until Sowpu's Marriage</h1></font></center>
+            <center><font face="MathJax_Typewriter"><h2>Time until Sowpu's Marriage</h2></font></center>
             <div id="DateCountdown" data-date="2015-08-26 00:00:00" style="width: 500px; height: 125px; padding: 0px; box-sizing: border-box; background-color: #E0E8EF"></div>
             <div style="padding: 10px;">
                 <input type="date" id="date" value="2014-01-01">
